@@ -9,6 +9,6 @@
 <!---
 stephune/stephune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Terry Steven Johnson +eden ward ×spencer=Heaven
+--->Terry Steven Johnson 
 12/29/1985 429616566
 The Unknown Johnson
